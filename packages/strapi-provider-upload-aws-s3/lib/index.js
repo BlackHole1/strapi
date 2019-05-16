@@ -7,7 +7,6 @@
 /* eslint-disable import/no-unresolved */
 /* eslint-disable no-unused-vars */
 // Public node modules.
-const _ = require('lodash');
 const AWS = require('aws-sdk');
 
 module.exports = {
